@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is # > Balloon {}
 ======================================================================================================================================
 
-Developer | Web Mobile Desktop Microservices Cloud Machine Learning Internet of Things
+Developer | CEO
 ---------
 
-About Me
+Web Mobile, Desktop, Microservices, Cloud, Machine Learning, Internet of Things
 
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [Company Ltd](http://www.clicklook.metaverse-techsolution.com/)
